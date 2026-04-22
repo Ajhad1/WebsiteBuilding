@@ -31,7 +31,16 @@
           autoplay
           poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
           width="400"
-        ></video>
+          <source
+            src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+            type="video/mp4"
+          />
+          <source
+            src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.webm"
+            type="video/webm"
+          />
+          Your browser does not support the video tag.
+        </video>
       </section>
       <section>
         <h2>Cat Lists</h2>
