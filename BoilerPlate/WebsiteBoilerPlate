@@ -29,6 +29,7 @@
           controls
           muted
           autoplay
+          poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
           width="400"
         ></video>
       </section>
