@@ -40,6 +40,10 @@
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
         </figure>
+        <figure>
+          <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="The sea."></a>
+          <figcaption>The <a href="https://www.freecodecamp.org/learn" target="_blank">sea</a> during the day.</figcaption>
+        </figure>
       </section>
     </main>
     <footer>
